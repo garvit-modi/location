@@ -16,8 +16,5 @@ VIEW 4    |
 :--------------------------------------------------------:
 ![](https://github.com/AndroidCodility/GPS-Location/blob/master/design/location.png?raw=true)
 
-# Play Video
-[![](https://github.com/AndroidCodility/GPS-Location/blob/master/design/gps_vid.png?raw=true)](https://youtu.be/Mwd9lSU4J6Y "Click here to watch")
 
-# Like Facebook Page
-[![](https://github.com/AndroidCodility/Barchart-Graph/blob/master/design/fb.png?raw=true)](https://www.facebook.com/androidcodility/ "Click here")
+
